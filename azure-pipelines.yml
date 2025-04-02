@@ -2,7 +2,7 @@ trigger:
 - master
 
 pool:
-  name: Azure Pipelines  # Change this to the name of your self-hosted agent pool
+  name: Demo  # Change this to the name of your self-hosted agent pool
 
 steps:
 - script: echo "Hello, world!"
